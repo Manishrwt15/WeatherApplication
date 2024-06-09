@@ -1,0 +1,12 @@
+.SearchBox{
+    text-align: center;
+}
+
+#city{
+    width: 250px;
+}
+
+.err{
+    color: red;
+    font-size: larger;
+}

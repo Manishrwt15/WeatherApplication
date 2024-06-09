@@ -1,0 +1,17 @@
+.InfoBox{
+    text-align: center;
+    margin-top: 3%;
+   
+}
+
+.Card{
+    display: flex;
+    justify-content: center;
+    
+}
+p{
+    font-size: large;
+}
+.city{
+    font-size: xx-large;
+}
